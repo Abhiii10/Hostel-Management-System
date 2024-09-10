@@ -1,0 +1,8 @@
+Admin
+ID:apple@gmail.com 
+PW: iphone
+
+
+Student login
+ID: admin@mail.com
+PW: iphone

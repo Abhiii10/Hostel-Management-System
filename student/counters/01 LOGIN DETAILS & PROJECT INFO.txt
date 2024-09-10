@@ -1,0 +1,5 @@
+
+student login details
+Username: admin@mail.com
+
+Password: admin@mail.com
